@@ -1,6 +1,6 @@
 # Seasons React App
 
-This is an app made after a tutorial in the Modern React and Redux Udemy Course (https://www.udemy.com/course/react-redux/) that outputs wether it's cold or hot outside, depending on the month of the year and the latitude of your position. It uses the Semantic UI framework for the design elements.
+This is an app made after a tutorial in the Modern React and Redux Udemy Course (https://www.udemy.com/course/react-redux/) that outputs whether it's cold or hot outside, depending on the month of the year and the latitude of your position. It uses the Semantic UI framework for the design elements.
 
 ## First screen - Loading
 
