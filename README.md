@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+# Seasons React App
+
+This is an app made after a tutorial in the Modern React and Redux Udemy Course (https://www.udemy.com/course/react-redux/) that outputs wether it's cold or hot outside, depending on the month of the year and the latitude of your position. It uses the Semantic UI framework for the design elements.
+
+## First screen - Loading
+
+![image](https://user-images.githubusercontent.com/97961954/218306202-d9f12d4c-f8c1-4524-9048-7c804a4346bd.png)
+
+## After accepting the location pop-up
+
+![image](https://user-images.githubusercontent.com/97961954/218306328-e3484ab0-53c5-4043-b44c-2b8f745bc276.png)
+
+or
+
+![image](https://user-images.githubusercontent.com/97961954/218306310-7c1d4d6d-c171-4a3e-a7a3-cc326e863d32.png)
+
+depending on the month of the year and the latitude of your position.
+
+## Error - if the location request was not accepted
+
+![image](https://user-images.githubusercontent.com/97961954/218306477-852639b3-f487-4b5b-904b-870e65538efa.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
